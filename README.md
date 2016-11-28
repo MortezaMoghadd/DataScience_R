@@ -1,7 +1,5 @@
 # DataScience_R
 
-Springboard Foundations of Data Science workshop
-
-Data Wrangling Exercise 1&2
+Data Wrangling 
 
 August 2016
